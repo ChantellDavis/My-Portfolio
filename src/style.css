@@ -1,9 +1,6 @@
 
 
-.aboutMeButton, .contactMeButton {
-    background-color: rgb(175, 105, 240);
-    color: white;
-}
+
 
 .hi {
     font-size: 48px;
@@ -11,9 +8,21 @@
 
 .profession {
     font-size: 24px;
-    opacity: 70%;
+  
 }
 
 .name {
     font-size: 96px;
+}
+
+.aboutMeLink, .contactMeLink{
+    background-color: #6c63ff;
+    color: beige;
+   
+    
+   
+}
+
+.containerTwo {
+    margin-top: 100px;
 }
